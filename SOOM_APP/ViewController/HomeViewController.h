@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  HomeViewController.h
 //  SOOM_APP
 //
 //  Created by samyoung79 on 2018. 9. 17..
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
-
+@interface HomeViewController : UIViewController
 
 @end
-
